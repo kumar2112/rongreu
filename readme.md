@@ -9,7 +9,7 @@ Rongreu is simple website which keeps track of employee and companies.
 
 <p>
  create database using <code>CREATE SCHEMA `your database name` DEFAULT CHARACTER SET utf8 ;</code>.
- Configure your database.
+ <br>Configure your database.
 </p>
 <p> Execute Following commands.
 
